@@ -1,0 +1,9 @@
+.MyCard{
+    display: flex;
+flex-direction: column;
+align-items: center;
+border-style:groove;
+padding: 3px;
+border-radius: 1px;
+margin-left: 10px;
+}
